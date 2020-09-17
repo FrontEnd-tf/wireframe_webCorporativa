@@ -2,3 +2,21 @@
 /* *** Estilos SOLO para index.html *** */
 /* *********************************** */
 
+/* Variables CSS */
+
+/* Color */
+:root{
+    --color-gris-claro: #C6C6C6;
+    --color-gris-medio: #929292;
+    --color-gris-oscuro: #3A3A3A;
+}
+
+/* Tipografia */
+
+h5{
+    color: var(--color-gris-medio);
+    font-family: var(--tipo-peke);
+}
+body{
+    background-color: var(--color-);
+}
